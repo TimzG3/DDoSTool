@@ -1,0 +1,2 @@
+# DDoSTool
+Simple DDoS Tool
